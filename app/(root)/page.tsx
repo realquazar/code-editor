@@ -11,7 +11,7 @@ export default function Home() {
       <div className="flex flex-col justify-center items-center my-5">
       <Image src={"/hero.svg"} alt="Hero-Section" height={500}  width={500}/>
       
-      <h1 className=" z-20 text-6xl mt-5 font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-rose-500 via-red-500 to-pink-500 dark:from-rose-400 dark:via-red-400 dark:to-pink-400 tracking-tight leading-[1.3] ">
+      <h1 className=" z-20 text-6xl mt-5 font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-green-700 via-green-500 to-purple-500 dark:from-purple-700 dark:via-blue-800 dark:to-green-400 tracking-tight leading-[1.3] ">
         FrostCE Web
       </h1>
       </div>
